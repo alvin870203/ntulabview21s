@@ -1,0 +1,10 @@
+Date-time 	Interface-name 	Protocol 	Source-ip 	Source-port 	Target-ip 	Target-port 	Length 	Pass-or-block 	
+Apr 26 21:31:34  	hn0 	udp 	10.2.10.175 	60221 	255.255.255.255 	3956 	36 	pass 	
+Apr 26 21:31:34  	hn0 	udp 	10.2.10.1 	137 	208.93.4.206 	137 	78 	pass 	
+Apr 26 21:31:32  	hn0 	udp 	10.2.10.10 	53 	10.2.23.123 	59118 	351 	pass 	
+Apr 26 21:31:32  	hn0 	udp 	10.2.10.10 	59087 	140.112.2.2 	53 	82 	pass 	
+Apr 26 21:31:32  	hn0 	udp 	10.2.10.10 	60847 	140.112.2.2 	53 	98 	pass 	
+Apr 26 21:38:10  	hn1 	tcp 	207.46.13.171 	25309 	10.2.10.15 	80 	48 	block 	
+Apr 26 21:38:08  	hn0 	tcp 	10.2.10.172 	60590 	207.46.153.155 	443 	52 	pass 	
+Apr 26 21:38:08  	hn0 	tcp 	10.2.10.2 	41875 	10.2.102.10 	88 	48 	block 	
+Apr 26 21:38:07  	hn0 	tcp 	10.2.10.2 	41874 	10.2.102.10 	88 	48 	pass 	
